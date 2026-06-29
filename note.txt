@@ -24,3 +24,4 @@ git push
 file màu xanh : file mới tạo
  
 u: untracked
+dòng code edit trực tiếp trên github online
